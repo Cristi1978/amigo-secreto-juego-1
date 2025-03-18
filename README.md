@@ -2,34 +2,54 @@
 <h1 align="center">Juego del Amigo Secreto</h1>
 
 
-<h1*[Descripcion del proyecto]>
+*[Descripcion del proyecto]
+
 
  <p>Este es un proyecto de Javascript que permite agregar nombres a una lista y posteriormente realizar un sorteo para encontrar a un amigo secreto.</p> 
 
 
+
 *[Criterios para desarrollar el proyecto]
 
-  Crear un repositorio en github para alojar el proyecto.
-  Descargar el proyecto base.
+
+ <p>Crear un repositorio en github para alojar el proyecto.</p>
+
+ 
+  <p>Descargar el proyecto base.</p>
 
 
 *[Funcionamiento]
-  El usuario debe ingresar nombres en un campo de texto.
-  Posteriormente pulsar el boton AÑADIR.
-  Los nombres ingresados se mostrarán en una lista visible en la página.
-  Luego de añadidos los nombres, el usuario debe pulsar el boton SORTEAR AMIGO.
-  El resultado se mostrará en pantalla.
+
+
+  <p>El usuario debe ingresar nombres en un campo de texto.</p>
+  
+  <p>Posteriormente pulsar el boton AÑADIR.</p>
+  
+  <p>Los nombres ingresados se mostrarán en una lista visible en la página.</p>
+  
+  <p>Luego de añadidos los nombres, el usuario debe pulsar el boton SORTEAR AMIGO.</p>
+  
+  <p>El resultado se mostrará en pantalla.</p>
 
 
 *[Instalación]
 
-  Clonar el repositorio de forma local
-  https://github.com/Cristi1978/amigo-secreto-juego-1
-  Abrir el archivo index html en su navegador para ver la aplicación en funcionamiento.
+
+  <p>Clonar el repositorio de forma local.<p/>
+   
+  <p>https://github.com/Cristi1978/amigo-secreto-juego-1.<p/>
+   
+  <p>Abrir el archivo index html en su navegador para ver la aplicación en funcionamiento.<p/>
+
+  <p>De ser necesario descargar la extensión Live Server en Visual Studio Code.</p>
+  
 
 *[Tecnologías utilizadas]
 
-  HTML para la estructura de la página.
-  CSS para dar estilo a la página.
-  JAVASCRIPT para la lógica de la aplicación.
+
+  <p>HTML para la estructura de la página.</p>
+  
+  <p>CSS para dar estilo a la página.</p>
+   
+  <p>JAVASCRIPT para la lógica de la aplicación.</p>
 
