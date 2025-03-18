@@ -2,7 +2,7 @@
 <h1 align="center">Juego del Amigo Secreto</h1>
 
 
-*[Descripcion del proyecto]
+<h1Descripcion del proyecto/h1>
 
 
  <p>Este es un proyecto de Javascript que permite agregar nombres a una lista y posteriormente realizar un sorteo para encontrar a un amigo secreto.</p> 
